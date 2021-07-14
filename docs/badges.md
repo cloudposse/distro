@@ -53,7 +53,7 @@
 [![jx](https://github.com/cloudposse/packages/workflows/jx/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Ajx) | 3.2.171    | Jenkins-X
 [![k3d](https://github.com/cloudposse/packages/workflows/k3d/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Ak3d) | 4.4.7      | Little helper to run Rancher Lab's k3s in Docker
 [![k6](https://github.com/cloudposse/packages/workflows/k6/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Ak6) | 0.33.0     | A modern load testing tool, using Go and JavaScript - https://k6.io
-[![k9s](https://github.com/cloudposse/packages/workflows/k9s/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Ak9s) | 0.24.10    | Kubernetes CLI To Manage Your Clusters In Style
+[![k9s](https://github.com/cloudposse/packages/workflows/k9s/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Ak9s) | 0.24.14    | Kubernetes CLI To Manage Your Clusters In Style
 [![katafygio](https://github.com/cloudposse/packages/workflows/katafygio/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Akatafygio) | 0.8.3      | K8s continuous backup to git
 [![kfctl](https://github.com/cloudposse/packages/workflows/kfctl/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Akfctl) | 1.2.0      | Machine Learning Toolkit for Kubernetes
 [![kind](https://github.com/cloudposse/packages/workflows/kind/badge.svg?branch=master)](https://github.com/cloudposse/packages/actions?query=workflow%3Akind) | 0.11.1     | A tool for running local Kubernetes clusters using Docker
